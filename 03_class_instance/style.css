@@ -1,0 +1,20 @@
+.accordion {
+    width: 500px; /* 横幅を500pixelに固定 */
+    margin: 0 auto; /* 中央に揃える */
+}
+
+.accordion-trigger {
+    margin: 0;
+    padding: 10px;
+    display: block;
+    background: #333;
+    color: #fff;
+    border-top: 1px solid #fff;
+}
+
+.accordion-contents {
+    margin: 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    display: none;
+}
